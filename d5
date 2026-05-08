@@ -12,7 +12,7 @@ local Player = Players.LocalPlayer
 --================ WHITELIST SYSTEM ==================
 local AllowedUserIDs = {
     [10067888587] = true,
-    [8396289812] = true,
+    [1769527462] = true,
     [8209937388] = true,
     [10706037987] = true,
     -- أضف معرفات إضافية هنا
